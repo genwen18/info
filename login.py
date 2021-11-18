@@ -4,3 +4,4 @@ num = 3
 num = 4
 num = 'person优化了登录功能'
 num = 'manager再次优化了登录功能'
+num = 'mananger修改了一些bug'
